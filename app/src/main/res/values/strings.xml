@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">briup</string>
+
+    <!--imageviewpager-->
+    <string name="indicator">%1$s/%2$s</string>
+
 </resources>
